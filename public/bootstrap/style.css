@@ -1,0 +1,7 @@
+.table thead tr th{
+    font-size: 14px !important;
+}
+
+.table tbody tr td, .table tbody tr td i{
+    font-size: 13px !important;
+}
